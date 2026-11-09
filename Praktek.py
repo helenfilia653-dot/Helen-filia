@@ -27,7 +27,7 @@ if nilai >= target :
 print ("-" * 30)
 
 if lulus :
-    print (f"output yang diharapkan:\n{nama}berhasil lulus setelah{percobaan} * percobaan")
+    print (f"output yang diharapkan:\n{nama}berhasil lulus setelah{percobaan} kali percobaan")
 
-else : 
-    print(f"output yang di harapkan:\n{nama}tidak lulus setelah{maks_percobaan} * percobaan")
+else :  
+    print(f"output yang di harapkan:\n{nama}tidak lulus setelah{maks_percobaan} kali percobaan")
